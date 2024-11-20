@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3snPCIXM8tLXxnvUcizLC9ifK83Sk9X7gedcCDiisWE=",
+  "Source": "PasswordHashingDemo",
+  "BasePath": "_content/PasswordHashingDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

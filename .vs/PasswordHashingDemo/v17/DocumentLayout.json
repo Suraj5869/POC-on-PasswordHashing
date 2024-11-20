@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\exceptions\\appexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\exceptions\\appexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_4M1UO2J/LoginDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 44\\passwordhashingdemo\\passwordhashingdemo\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C2D1C6-C8AC-4932-90A7-440F144905FF}|PasswordHashingDemo\\PasswordHashingDemo.csproj|solutionrelative:passwordhashingdemo\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Exceptions\\AppExceptionHandler.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Exceptions\\AppExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Exceptions\\AppExceptionHandler.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Exceptions\\AppExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:39:07.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_4M1UO2J/LoginDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_4M1UO2J/LoginDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-19T16:34:29.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Models\\User.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:51:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:54:52.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Services\\UserService.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Services\\UserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:51:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:49:16.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Program.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:26:32.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Services\\IUserService.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:46:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:43:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Models\\Response.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:39:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:30:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Data\\UserContext.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Data\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:24:12.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "PasswordHashingDemo\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 44\\PasswordHashingDemo\\PasswordHashingDemo\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "PasswordHashingDemo\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:41:34.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
